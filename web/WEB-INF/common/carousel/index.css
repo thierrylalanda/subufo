@@ -1,0 +1,265 @@
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#Line1
+{
+   color: #A0A0A0;
+   background-color: #A0A0A0;
+   border-width: 0;
+   margin: 0;
+   padding: 0;
+}
+#wb_Carousel1
+{
+   background-color: transparent;
+   background-image: none;
+}
+#wb_Carousel1
+{
+   display: block;
+   float: left;
+   top: 0 !important;
+}
+#Carousel1 .frame
+{
+   width: 970px;
+   display: inline-block;
+   float: left;
+   height: 408px;
+}
+#wb_Carousel1 .pagination
+{
+   bottom: 0;
+   left: 0;
+   position: absolute;
+   text-align: center;
+   vertical-align: middle;
+   width: 100%;
+   z-index: 998;
+}
+#wb_Carousel1 .pagination img
+{
+   border-style: none;
+   padding: 10px 10px 10px 10px;
+}
+#Carousel1 .frame-1
+{
+   background-color: transparent;
+   background-image: url(images/phone_tv4_800.jpg);
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size: cover;
+}
+#Carousel1 .frame-2
+{
+   background-color: transparent;
+   background-image: url(images/table1_800_faded.jpg);
+   background-repeat: no-repeat;
+   background-position: left center;
+   background-size: cover;
+}
+#Carousel1 .frame-3
+{
+   background-color: transparent;
+   background-image: url(images/hand_phone1_800_faded.jpg);
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size: cover;
+}
+#wb_Title1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #FFFFFF solid;
+   padding: 0px 0px 0px 0px;
+}
+#Title1
+{
+   color: #FEFEFE;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 32px;
+   margin: 0;
+   text-align: center;
+}
+#wb_Title2
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #FFFFFF solid;
+   padding: 0px 0px 0px 0px;
+}
+#Title2
+{
+   color: #FEFEFE;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 32px;
+   margin: 0;
+   text-align: center;
+}
+#wb_Title3
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #FFFFFF solid;
+   padding: 0px 0px 0px 0px;
+}
+#Title3
+{
+   color: #FEFEFE;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 32px;
+   margin: 0;
+   text-align: center;
+}
+#wb_Review2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Review2 div
+{
+   text-align: center;
+}
+#wb_Review1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Review1 div
+{
+   text-align: center;
+}
+#wb_Review3 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Review3 div
+{
+   text-align: center;
+}
+#wb_User1
+{
+   background-color: #FFFFFF;
+   background-image: none;
+   border: 3px #0AABE1 solid;
+   border-radius: 50%;
+   text-align: center;
+   padding: 16px 16px 16px 16px;
+   vertical-align: top;
+}
+#wb_User1:hover
+{
+   background-color: #0AABE1;
+   background-image: none;
+   border: 3px #0AABE1 solid;
+}
+#User1
+{
+   height: 58px;
+   width: 58px;
+}
+#User1 i
+{
+   color: #0AABE1;
+   display: inline-block;
+   font-size: 58px;
+   line-height: 58px;
+   vertical-align: middle;
+   width: 49px;
+}
+#wb_User1:hover i
+{
+   color: #FFFFFF;
+}
+#wb_User2
+{
+   background-color: #FFFFFF;
+   background-image: none;
+   border: 3px #0AABE1 solid;
+   border-radius: 50%;
+   text-align: center;
+   padding: 16px 16px 16px 16px;
+   vertical-align: top;
+}
+#wb_User2:hover
+{
+   background-color: #0AABE1;
+   background-image: none;
+   border: 3px #0AABE1 solid;
+}
+#User2
+{
+   height: 58px;
+   width: 58px;
+}
+#User2 i
+{
+   color: #0AABE1;
+   display: inline-block;
+   font-size: 58px;
+   line-height: 58px;
+   vertical-align: middle;
+   width: 49px;
+}
+#wb_User2:hover i
+{
+   color: #FFFFFF;
+}
+#wb_User3
+{
+   background-color: #FFFFFF;
+   background-image: none;
+   border: 3px #0AABE1 solid;
+   border-radius: 50%;
+   text-align: center;
+   padding: 16px 16px 16px 16px;
+   vertical-align: top;
+}
+#wb_User3:hover
+{
+   background-color: #0AABE1;
+   background-image: none;
+   border: 3px #0AABE1 solid;
+}
+#User3
+{
+   height: 58px;
+   width: 58px;
+}
+#User3 i
+{
+   color: #0AABE1;
+   display: inline-block;
+   font-size: 58px;
+   line-height: 58px;
+   vertical-align: middle;
+   width: 41px;
+}
+#wb_User3:hover i
+{
+   color: #FFFFFF;
+}
